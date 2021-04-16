@@ -34,7 +34,6 @@
     }
 }
 
-/*Extra screen start*/
 
 /*Extra Large devices (Extra large desktops, 992px and up)*/
 @media (min-width: 1400px) and (max-width: 1699.98px) {
@@ -50,7 +49,6 @@
     }
 }
 
-/*Extra screen end*/
 
 /* Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
 @media (min-width: 2000px) {
